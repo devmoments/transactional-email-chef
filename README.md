@@ -2,7 +2,7 @@
 
 Recreated from Really Good Emails mockup
 
-This transactional email is build using HTML and CSS inlined
+This Transactional Email is build using HTML and CSS inlined
 
 Live link: https://devmoments.github.io/transactional-email-greenchef/
 
