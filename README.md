@@ -1,6 +1,6 @@
 # transactional-email-chef
 
-Recreated from Really Good Emails mockup
+Recreated from Really Good Emails 
 
 This Transactional Email is build using HTML and CSS inlined
 
